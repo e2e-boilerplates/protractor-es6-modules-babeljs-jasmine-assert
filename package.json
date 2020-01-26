@@ -11,10 +11,11 @@
   "keywords": [
     "protractor",
     "es6 modules",
-    "babel",
+    "babeljs",
     "jasmine",
     "boilerplate",
-    "example"
+    "example",
+    "assert"
   ],
   "author": "Girma Nigusse <xgirma@gmail.com> (https://github.com/xgirma)",
   "license": "MIT",

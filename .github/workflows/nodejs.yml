@@ -1,4 +1,4 @@
-name: protractor-es6-modules-babeljs-jasmine-expect
+name: protractor-es6-modules-babeljs-jasmine-assert
 
 on: 
   push:

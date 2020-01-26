@@ -1,7 +1,7 @@
 {
   "name": "protractor-es6-modules-babeljs-jasmine-assert",
   "version": "1.0.0",
-  "description": "Protractor end-to-end test automation boilerplate project. Using ES6 modules, babel and jasmine",
+  "description": "Protractor end-to-end test automation boilerplate, using ES6-Modules, BabelJS, Jasmine and Assert.",
   "scripts": {
     "test": "npx protractor protractor.conf.js",
     "test-ci": "npx protractor protractor-ci.conf.js",

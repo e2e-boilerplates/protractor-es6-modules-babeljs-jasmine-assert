@@ -1,9 +1,9 @@
 name: protractor-es6-modules-babeljs-jasmine-assert
 
-on: 
+on:
   push:
   schedule:
-    - cron: '0 0 2-30/2 * *'
+    - cron: "0 0 2-30/2 * *"
 
 jobs:
   build:
@@ -28,4 +28,4 @@ jobs:
           npm run upadte-webderiver
       - name: TEST
         run: |
-          npm run test-ci
+          npm run test

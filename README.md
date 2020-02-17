@@ -1,8 +1,8 @@
-# Protractor: (ES6-Modules, BabelJS, Jasmine and Assert)
+# Protractor: (ES6 Modules, BabelJS, Jasmine and Assert)
 
 [![GitHub Actions status | e2e-boilerplates/protractor-es6-modules-babeljs-jasmine-assert](https://github.com/e2e-boilerplates/protractor-es6-modules-babeljs-jasmine-assert/workflows/protractor-es6-modules-babeljs-jasmine-assert/badge.svg)](https://github.com/e2e-boilerplates/protractor-es6-modules-babeljs-jasmine-assert/actions?workflow=protractor-es6-modules-babeljs-jasmine-assert)
 
-Protractor end-to-end test automation boilerplate, using ES6-Modules, BabelJS, Jasmine and Assert.
+Protractor end-to-end test automation boilerplate, using ES6 modules, BabelJS, Jasmine and Assert.
 
 ## Getting Started
 

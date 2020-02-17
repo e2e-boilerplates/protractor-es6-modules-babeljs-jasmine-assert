@@ -1,16 +1,17 @@
 {
   "name": "protractor-es6-modules-babeljs-jasmine-assert",
   "version": "1.0.0",
-  "description": "Protractor end-to-end test automation boilerplate, using ES6-Modules, BabelJS, Jasmine and Assert.",
+  "description": "Protractor end-to-end test automation boilerplate, using ES6 modules, BabelJS, Jasmine and Assert.",
   "scripts": {
     "lint": "npx eslint --ext .js ./ --fix",
     "upadte-webderiver": "npx webdriver-manager update",
-    "test": "npx protractor protractor.conf.js",
-    "test-ci": "npx protractor protractor-ci.conf.js"
+    "test": "npx protractor"
   },
   "keywords": [
     "protractor",
-    "es6 modules",
+    "es6",
+    "e2e",
+    "e2e test",
     "babeljs",
     "jasmine",
     "boilerplate",
@@ -41,8 +42,5 @@
     "hooks": {
       "pre-commit": "pretty-quick --staged"
     }
-  },
-  "dependencies": {
-    "puppeteer": "2.1.1"
   }
 }

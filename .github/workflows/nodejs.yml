@@ -30,7 +30,7 @@ jobs:
           npm run lint
       - name: UPDATE WEBDRIVER
         run: |
-          npm run upadte-webderiver
+          npm run upadte-webderiver-ci
       - name: TEST
         run: |
           npm run test

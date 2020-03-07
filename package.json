@@ -28,21 +28,21 @@
   "keywords": [
     "assert",
     "babeljs",
-    "es modules",
+    "es",
     "jasmine",
     "protractor"
   ],
   "license": "MIT",
-  "name": "protractor-es6-modules-babeljs-jasmine-assert",
+  "name": "protractor-es-modules-babeljs-jasmine-assert",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/e2e-boilerplates/protractor-es6-modules-babeljs-jasmine-assert.git"
+    "url": "git+https://github.com/e2e-boilerplates/protractor-es-modules-babeljs-jasmine-assert.git"
   },
   "scripts": {
     "lint": "npx eslint --ext .js ./ --fix",
     "test": "npx protractor",
-    "upadte-webderiver": "npx webdriver-manager update",
-    "upadte-webderiver-ci": "npx webdriver-manager update --versions.chrome=79.0.3945.36"
+    "update-webdriver": "npx webdriver-manager update",
+    "update-webdriver:ci": "npx webdriver-manager update --versions.chrome=79.0.3945.36"
   },
   "version": "1.0.0"
 }

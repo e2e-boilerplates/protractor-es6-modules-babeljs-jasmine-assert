@@ -1,5 +1,5 @@
 {
-  "author": "Girma Nigusse <xgirma@gmail.com> (https://github.com/xgirma)",
+  "author": "",
   "description": "Protractor end-to-end test automation boilerplate, using ES6 modules, BabelJS, Jasmine and Assert.",
   "devDependencies": {
     "@babel/cli": "7.8.4",
@@ -28,12 +28,8 @@
   "keywords": [
     "assert",
     "babeljs",
-    "boilerplate",
-    "e2e",
-    "e2e tests",
+    "es Modules",
     "es6",
-    "example",
-    "integration test",
     "jasmine",
     "protractor"
   ],

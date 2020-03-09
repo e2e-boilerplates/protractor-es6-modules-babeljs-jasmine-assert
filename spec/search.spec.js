@@ -2,7 +2,7 @@ import assert from "assert";
 
 describe("Sandbox", () => {
   beforeAll(() => {
-    browser.get("https://e2e-boilerplates.github.io/sandbox/");
+    browser.get("https://e2e-boilerplate.github.io/sandbox/");
   });
 
   it("should be on Sandbox", async () => {

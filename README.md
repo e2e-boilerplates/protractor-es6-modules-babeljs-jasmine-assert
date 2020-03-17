@@ -1,4 +1,4 @@
-[![GitHub Actions status | e2e-boilerplate/protractor-es-modules-babel-jasmine-assert](https://github.com/e2e-boilerplate/protractor-es-modules-babel-jasmine-assert/workflows/protractor-es-modules-babel-jasmine-assert/badge.svg)](https://github.com/e2e-boilerplate/protractor-es-modules-babel-jasmine-assert/actions?workflow=protractor-es-modules-babel-jasmine-assert)
+[![GitHub Actions status | e2e-boilerplate/protractor-es-modules-babel-jasmine-assert](https://github.com/e2e-boilerplate/protractor-es-modules-babel-jasmine-assert/workflows/protractor-es-modules-babel-jasmine-assert/badge.svg)](https://github.com/e2e-boilerplate/protractor-es-modules-babel-jasmine-assert/actions?workflow=protractor-es-modules-babel-jasmine-assert) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 # Protractor Boilerplate
 

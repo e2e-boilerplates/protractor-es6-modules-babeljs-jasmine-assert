@@ -1,4 +1,4 @@
-name: protractor-es-modules-babel-jasmine-assert
+usname: protractor-es-modules-babel-jasmine-assert
 "on":
   push: null
   schedule:

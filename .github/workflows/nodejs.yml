@@ -1,8 +1,8 @@
-usname: protractor-es-modules-babel-jasmine-assert
+name: protractor-es-modules-babel-jasmine-assert
 "on":
   push: null
   schedule:
-    - cron: 5 0 1-31/2 * *
+    - cron: 50 5 1-31/2 * *
 jobs:
   build:
     runs-on: ubuntu-latest

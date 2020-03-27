@@ -10,7 +10,7 @@ describe("Sandbox", () => {
     const header = element(by.css("h1"));
 
     assert.strictEqual(title, "Sandbox");
-    header.getText().then(text => {
+    header.getText().then((text) => {
       assert.strictEqual(text, "Sandbox");
     });
   });

@@ -7,11 +7,9 @@ describe("Sandbox", () => {
 
   it("should be on Sandbox", async () => {
     const title = await browser.getTitle();
-    const header = element(by.css("h1"));
-
     assert.strictEqual(title, "Sandbox");
-    header.getText().then((text) => {
-      assert.strictEqual(text, "Sandbox");
-    });
+
+    const header = await element(by.css("h1")).getText();
+    assert.strictEqual(header, "Sandbox");
   });
 });
